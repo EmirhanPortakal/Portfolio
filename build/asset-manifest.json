@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.12aee5fa.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/basketball.gif": "/static/media/basketball.d23eb55967195f3c68c8.gif",
+    "static/media/koltuk.png": "/static/media/koltuk.2894b2d303a68b4e17dd.png",
+    "static/media/EmirhanPortakalCV.pdf": "/static/media/EmirhanPortakalCV.48344aa9968ff85db57d.pdf",
+    "static/media/fog.png": "/static/media/fog.ab5612ac189af45281c9.png",
+    "static/media/fabrika.png": "/static/media/fabrika.7af810a4735f7c9b019b.png",
+    "static/media/mantar.png": "/static/media/mantar.d2ae84babf9e4e7c9ac5.png",
+    "static/media/roguelike.png": "/static/media/roguelike.694accefb7ddd938be00.png",
+    "static/media/nefps.png": "/static/media/nefps.68627c35e6b33bd4251e.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.89e30df54ff20d0c26bbc5c38c855580.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.12aee5fa.js.map": "/static/js/main.12aee5fa.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.12aee5fa.js"
+  ]
+}
